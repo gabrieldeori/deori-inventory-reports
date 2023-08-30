@@ -441,5 +441,6 @@ Para sinalizar que o seu projeto está pronto para o _"Code Review"_ a seus pare
   * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
   * No menu à direita, clique no _link_ **"Reviewers"** e selecione o time designado pela liderança.
-#   d e o r i - i n v e n t o r y - r e p o r t s  
+#   d e o r i - i n v e n t o r y - r e p o r t s 
+ 
  
